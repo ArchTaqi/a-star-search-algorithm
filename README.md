@@ -1,2 +1,3 @@
 # a-star-search-algorithm
-A* Search Algorithm in Assembly Language
+
+This is my Semester project on which i have implemented Asterick Algorithm commonly known as A* Search Algorithm in Assembly Language
